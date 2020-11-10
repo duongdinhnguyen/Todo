@@ -1,0 +1,27 @@
+.clear {
+  height: 50px;
+  width: 50px;
+  margin-top: 50px;
+  margin-left: 100px;
+  text-align: center;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px 1px black;
+}
+.main {
+  display: inline;
+}
+.button {
+  text-align: center;
+}
+button {
+  border: 0;
+  margin: 10px;
+}
+.completed {
+  display: none;
+}
+body {
+  background-color: rgb(250, 246, 246);
+}

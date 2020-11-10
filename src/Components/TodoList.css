@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+.TodoList {
+  margin: 5px;
+  margin-left: 50px;
+  height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 0;
+  background-color: rgb(250, 246, 246);
+}
+.checkbox {
+  margin-left: 390px;
+}
+i {
+  color: rgb(187, 149, 156);
+}
+i:hover {
+  color: black;
+}
+hr {
+  box-shadow: 5px 5px black;
+  width: 50%;
+}
+button:hover {
+  color: red;
+}
+
+p {
+  margin-left: 450px;
+  margin-top: 10px;
+}
+
+.input {
+  border: 0;
+  background-color: wheat;
+}
